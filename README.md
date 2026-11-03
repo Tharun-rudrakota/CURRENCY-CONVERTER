@@ -1,3 +1,5 @@
+**https://venerable-heliotrope-36ea89.netlify.app/**
+
 # Currency Converter
 
 A responsive React and Vite currency converter that fetches the latest available rates directly from the [Frankfurter API](https://www.frankfurter.dev/). It includes decimal amount validation, currency selection and swapping, loading and error states, the applied rate, and the date supplied by the API.
