@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = chbha
+	email = chbha@example.com
+[remote "origin"]
+	url = https://github.com/Tharun-rudrakota/CURRENCY-CONVERTER.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
